@@ -51,7 +51,7 @@ node* add(node*a,node*b);
 node* subs(node*a,node*b);
 node* divsn(node*a,node*b);
 node* mul(node*a,node*b);
-node* power(node*a,node*b);
+
 void revl(list*l);
 int length (list l);
 int comparelist(node*a,node*b);
